@@ -11,7 +11,9 @@ class student:
     def registClass() #강의 신청
     def searchClass() #강의 검색
     def editClass()   #강의 정정
-    
+    def deleteClass() #강의 삭제
+    def readBasket() #장바구니 열람
+    def readSchedule() #시간표 열람
     
 
 class university:
